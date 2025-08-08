@@ -10,3 +10,11 @@ h1 {
 p {
   color: #555;
 }
+h2 {
+  color: #007acc;
+}
+ul {
+  list-style: square;
+  text-align: left;
+  display: inline-block;
+}
